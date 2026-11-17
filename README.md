@@ -21,3 +21,6 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • yfin
 ---
 
 School Project — Completed
+
+## License
+MIT — see [LICENSE](LICENSE).
